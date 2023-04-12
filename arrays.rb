@@ -10,3 +10,6 @@ sends.pop()
 ages.shift(2)
 # The code below will add a new element (5.14) to the beginning of the climbing_grades array
 climbing_grades.unshift(5.14)
+# In an array, index positions start at 0 and count up. For instance, the following prompts would return Ken and 28, respectively.
+puts friends[2]
+puts ages[0]
