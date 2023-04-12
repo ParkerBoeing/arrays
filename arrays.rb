@@ -13,3 +13,5 @@ climbing_grades.unshift(5.14)
 # In an array, index positions start at 0 and count up. For instance, the following prompts would return Ken and 28, respectively.
 puts friends[2]
 puts ages[0]
+# The code below will delete an element at a particular index position. In this instance, it is deleting the element in index position 2 (5.13) in the climbing_grades array.
+climbing_grades.delete_at(2)
