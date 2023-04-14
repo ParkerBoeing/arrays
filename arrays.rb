@@ -1,7 +1,7 @@
 friends = ["Erin", "Ethan", "Ken", "Laura"]
 ages = [28, 31, 57, 43]
-climbing_grades [5.12, 5.10, 5.13, 5.11]
-sends [true, false, false, true]
+climbing_grades = [5.12, 5.10, 5.13, 5.11]
+sends = [true, false, false, true]
 # The code below will add the name Raphael to the end of the array stored in friends
 friends.push("Raphael")
 # The code below will remove the final value (true) from the sends array
